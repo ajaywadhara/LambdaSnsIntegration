@@ -1,5 +1,5 @@
-# LambdaCDKExample
+# Lambda Integration with SNS
 
-### This is a sample CDK project to create AWS Lambda function. I have covered this under complete tutorial on my YouTube channnel (link below).
+### In this project I have created a Lambda function that listens to the SNS events and prints the message. This is a CDK project hence, Lambda is created using CDK.
 
-https://www.youtube.com/c/AjayWadhara/videos
+[https://www.youtube.com/c/AjayWadhara/videos](https://youtu.be/Jh_jrcOpF-I)
