@@ -1,0 +1,8 @@
+/.idea/
+/assets/function.jar
+/assets/original-function.jar
+/infra/target
+/functions/target
+/functions/.DS_Store
+/infra/.DS_Store
+.DS_Store
